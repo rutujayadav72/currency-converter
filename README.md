@@ -23,15 +23,16 @@ A lightweight and responsive web-based currency converter built using **HTML**, 
 
 
    open index.html
+   const BASE_URL = "YOUR_API_KEY";
 
-  const BASE_URL = "YOUR_API_KEY";
-
+📁 Project Structure
 
 currency-converter/
 │
 ├── index.html        # Main HTML file
 ├── style.css         # CSS styling
-└── script.js         # JavaScript logic
+├── script.js         # JavaScript logic
+├── codes.js       
 ├── .gitignore
 ├── README.md
 
