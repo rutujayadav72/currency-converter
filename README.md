@@ -16,6 +16,8 @@ A lightweight and responsive web-based currency converter built using **HTML**, 
 - JavaScript
 - Api
 
+## How to use
+
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/rutujayadav72/currency-converter.git
