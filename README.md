@@ -9,6 +9,9 @@ A lightweight and responsive web-based currency converter built using **HTML**, 
 - Intuitive and responsive UI
 - Built using only vanilla JavaScript (no frameworks) 
 
+## 🎮 Live Demo
+
+[LINK](https://rutujayadav72.github.io/currency-converter/) 
 
 ## Tech Stack
 - HTML
