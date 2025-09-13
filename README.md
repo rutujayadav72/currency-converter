@@ -2,6 +2,8 @@
 
 A lightweight and responsive web-based currency converter built using **HTML**, **CSS**, and **JavaScript**. Convert between major world currencies with a clean interface and optional real-time exchange rates using a public API.
 
+---
+
 ## 🚀 Features
 
 - Convert between multiple currencies (e.g., USD, EUR, GBP, INR)
@@ -9,15 +11,21 @@ A lightweight and responsive web-based currency converter built using **HTML**, 
 - Intuitive and responsive UI
 - Built using only vanilla JavaScript (no frameworks) 
 
+---
+
 ## 🎮 Live Demo
 
 [LINK](https://rutujayadav72.github.io/currency-converter/) 
+
+---
 
 ## Tech Stack
 - HTML
 - CSS
 - JavaScript
 - Api
+
+---
 
 ## How to use
 
@@ -29,8 +37,13 @@ A lightweight and responsive web-based currency converter built using **HTML**, 
 
    open index.html
    const BASE_URL = "YOUR_API_KEY";
+  
+  ```
 
-📁 Project Structure
+  ---
+
+## 📁 Project Structure
+```plaintext
 
 currency-converter/
 │
@@ -41,6 +54,9 @@ currency-converter/
 ├── .gitignore
 ├── README.md
 
+```
+
+---
 
 ## Author
 [Rutuja Yadav](https://github.com/rutujayadav72)
